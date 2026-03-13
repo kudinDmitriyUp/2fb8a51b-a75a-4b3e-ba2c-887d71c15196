@@ -90,7 +90,7 @@ export default function LeadershipPage() {
               title: "Strategic Vision & Execution",
               description: "Defining bold long-term strategies while maintaining operational excellence. Balanced visionary thinking with pragmatic execution to drive sustainable growth.",
               tag: "Strategy",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/abstract-visualization-of-enterprise-tec-1773421318926-afa0ff1b.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/abstract-visualization-of-enterprise-tec-1773421318926-afa0ff1b.png?_wi=2",
               imageAlt: "Abstract visualization of strategic enterprise vision",
             },
             {
@@ -98,7 +98,7 @@ export default function LeadershipPage() {
               title: "High-Performance Team Building",
               description: "Attracting and developing exceptional talent. Creating psychologically safe environments where diverse perspectives drive innovation and exceptional results.",
               tag: "Teams",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/vibrant-diverse-team-of-tech-professiona-1773421319421-abd8f91f.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/vibrant-diverse-team-of-tech-professiona-1773421319421-abd8f91f.png?_wi=3",
               imageAlt: "Diverse high-performing team collaborating",
             },
             {
@@ -106,7 +106,7 @@ export default function LeadershipPage() {
               title: "Building Innovation Culture",
               description: "Fostering environments where experimentation thrives and calculated risk-taking is celebrated. Balancing stability with the agility needed for breakthrough innovation.",
               tag: "Culture",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-product-innovation-scene-showing-1773421322959-d8094f26.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-product-innovation-scene-showing-1773421322959-d8094f26.png?_wi=2",
               imageAlt: "Innovation culture and creative collaboration",
             },
             {
@@ -114,7 +114,7 @@ export default function LeadershipPage() {
               title: "Stakeholder Alignment & Communication",
               description: "Translating complex strategies into compelling narratives. Engaging board members, investors, employees, and customers with authentic, transparent communication.",
               tag: "Communication",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/entrepreneurial-startup-ecosystem-visual-1773421323337-525d63f8.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/entrepreneurial-startup-ecosystem-visual-1773421323337-525d63f8.png?_wi=3",
               imageAlt: "Stakeholder engagement and alignment",
             },
           ]}
@@ -204,7 +204,7 @@ export default function LeadershipPage() {
           mediaAnimation="slide-up"
           mediaPosition="right"
           buttonText="Schedule Discussion"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-collaboration-scene-showing-prof-1773421323236-38d18747.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-collaboration-scene-showing-prof-1773421323236-38d18747.png?_wi=4"
           imageAlt="Professional collaboration and discussion"
           ariaLabel="Leadership consultation contact form"
         />
