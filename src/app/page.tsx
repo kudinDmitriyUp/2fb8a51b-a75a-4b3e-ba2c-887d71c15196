@@ -134,7 +134,7 @@ export default function HomePage() {
               description:
                 "15+ years driving digital transformation at Fortune 500 companies, scaling infrastructure and leading high-performing teams.",
               tag: "Enterprise",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/abstract-visualization-of-enterprise-tec-1773421318926-afa0ff1b.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/abstract-visualization-of-enterprise-tec-1773421318926-afa0ff1b.png?_wi=1",
               imageAlt: "Enterprise technology infrastructure",
             },
             {
@@ -143,7 +143,7 @@ export default function HomePage() {
               description:
                 "Creating breakthrough products that solve real problems. Mentored 50+ founders and led product launches generating $500M+ revenue.",
               tag: "Product",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-product-innovation-scene-showing-1773421322959-d8094f26.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-product-innovation-scene-showing-1773421322959-d8094f26.png?_wi=1",
               imageAlt: "Product innovation collaboration",
             },
             {
@@ -152,7 +152,7 @@ export default function HomePage() {
               description:
                 "Pioneering DEI initiatives in tech. Built and scaled teams with 40%+ LGBTQ+ representation achieving 2x industry-standard retention.",
               tag: "Culture",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/vibrant-diverse-team-of-tech-professiona-1773421319421-abd8f91f.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/vibrant-diverse-team-of-tech-professiona-1773421319421-abd8f91f.png?_wi=1",
               imageAlt: "Diverse team collaboration",
             },
             {
@@ -161,7 +161,7 @@ export default function HomePage() {
               description:
                 "Invested in and advised 30+ startups. Founded accelerator focusing on LGBTQ+ entrepreneurs, providing $50M+ in funding access.",
               tag: "Startups",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/entrepreneurial-startup-ecosystem-visual-1773421323337-525d63f8.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/entrepreneurial-startup-ecosystem-visual-1773421323337-525d63f8.png?_wi=1",
               imageAlt: "Startup ecosystem",
             },
           ]}
@@ -308,7 +308,7 @@ export default function HomePage() {
               title: "The Business Case for LGBTQ+ Inclusion in Tech",
               excerpt:
                 "How inclusive teams drive innovation faster. Data-driven insights from 500+ team members and $2.5B in product revenue.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/engaging-conference-speaker-presenting-o-1773421320097-92cdf325.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/engaging-conference-speaker-presenting-o-1773421320097-92cdf325.png?_wi=1",
               authorName: "Vitaliy",
               authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/professional-circular-avatar-profile-pho-1773421318539-4d929e7f.png",
               date: "October 2024",
@@ -319,7 +319,7 @@ export default function HomePage() {
               title: "From Zero to Scale: Building Products That Matter",
               excerpt:
                 "Strategic frameworks for achieving product-market fit and scaling to enterprise. Real case studies from billion-dollar exits.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/strategic-business-growth-visualization--1773421319492-c059ca1f.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/strategic-business-growth-visualization--1773421319492-c059ca1f.png?_wi=1",
               authorName: "Vitaliy",
               authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/professional-circular-avatar-profile-pho-1773421318539-4d929e7f.png",
               date: "September 2024",
@@ -330,7 +330,7 @@ export default function HomePage() {
               title: "Authentic Leadership in High-Pressure Environments",
               excerpt:
                 "Leading with integrity and vulnerability at scale. How bringing your whole self improves decision-making and organizational trust.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/powerful-moment-of-authentic-leadership--1773421349421-02ed66a9.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/powerful-moment-of-authentic-leadership--1773421349421-02ed66a9.png?_wi=1",
               authorName: "Vitaliy",
               authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/professional-circular-avatar-profile-pho-1773421318539-4d929e7f.png",
               date: "August 2024",
@@ -412,7 +412,7 @@ export default function HomePage() {
           mediaAnimation="slide-up"
           mediaPosition="right"
           buttonText="Send Message"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-collaboration-scene-showing-prof-1773421323236-38d18747.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-collaboration-scene-showing-prof-1773421323236-38d18747.png?_wi=1"
           ariaLabel="Contact form"
         />
       </div>
