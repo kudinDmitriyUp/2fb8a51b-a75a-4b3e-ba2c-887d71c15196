@@ -90,7 +90,7 @@ export default function SpeakingPage() {
               category: ["Tech Culture", "Leadership"],
               title: "The Business Case for LGBTQ+ Inclusion in Tech",
               excerpt: "How inclusive teams drive innovation faster. Data-driven insights from 500+ team members and $2.5B in product revenue. Presented at major tech conferences.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/engaging-conference-speaker-presenting-o-1773421320097-92cdf325.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/engaging-conference-speaker-presenting-o-1773421320097-92cdf325.png?_wi=2",
               imageAlt: "Conference speaker on diversity and inclusion",
               authorName: "Vitaliy",
               authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/professional-circular-avatar-profile-pho-1773421318539-4d929e7f.png",
@@ -101,7 +101,7 @@ export default function SpeakingPage() {
               category: ["Product Strategy", "Scaling"],
               title: "From Zero to Scale: Building Products That Matter",
               excerpt: "Strategic frameworks for achieving product-market fit and scaling to enterprise. Real case studies from billion-dollar exits. How to build products people love.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/strategic-business-growth-visualization--1773421319492-c059ca1f.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/strategic-business-growth-visualization--1773421319492-c059ca1f.png?_wi=2",
               imageAlt: "Strategic business growth and scaling",
               authorName: "Vitaliy",
               authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/professional-circular-avatar-profile-pho-1773421318539-4d929e7f.png",
@@ -112,7 +112,7 @@ export default function SpeakingPage() {
               category: ["Leadership", "Mentorship"],
               title: "Authentic Leadership in High-Pressure Environments",
               excerpt: "Leading with integrity and vulnerability at scale. How bringing your whole self improves decision-making and organizational trust. Building psychological safety.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/powerful-moment-of-authentic-leadership--1773421349421-02ed66a9.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/powerful-moment-of-authentic-leadership--1773421349421-02ed66a9.png?_wi=3",
               imageAlt: "Authentic leadership moment with team",
               authorName: "Vitaliy",
               authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/professional-circular-avatar-profile-pho-1773421318539-4d929e7f.png",
@@ -197,7 +197,7 @@ export default function SpeakingPage() {
           mediaAnimation="slide-up"
           mediaPosition="right"
           buttonText="Send Speaking Inquiry"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-collaboration-scene-showing-prof-1773421323236-38d18747.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-collaboration-scene-showing-prof-1773421323236-38d18747.png?_wi=5"
           imageAlt="Speaking engagement and event collaboration"
           ariaLabel="Speaking inquiry contact form"
         />
