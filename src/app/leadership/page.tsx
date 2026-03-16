@@ -21,8 +21,7 @@ export default function LeadershipPage() {
 
   const footerColumns = [
     {
-      title: "Navigation",
-      items: [
+      title: "Navigation",      items: [
         { label: "Home", href: "/" },
         { label: "About", href: "/about" },
         { label: "Leadership", href: "/leadership" },
@@ -30,8 +29,7 @@ export default function LeadershipPage() {
       ],
     },
     {
-      title: "Connect",
-      items: [
+      title: "Connect",      items: [
         { label: "LinkedIn", href: "https://linkedin.com" },
         { label: "Twitter", href: "https://twitter.com" },
         { label: "Contact", href: "/contact" },
@@ -39,8 +37,7 @@ export default function LeadershipPage() {
       ],
     },
     {
-      title: "Resources",
-      items: [
+      title: "Resources",      items: [
         { label: "Blog", href: "#" },
         { label: "Speaking Topics", href: "/speaking" },
         { label: "Media Kit", href: "#" },
@@ -48,8 +45,7 @@ export default function LeadershipPage() {
       ],
     },
     {
-      title: "Legal",
-      items: [
+      title: "Legal",      items: [
         { label: "Privacy Policy", href: "#" },
         { label: "Terms of Service", href: "#" },
       ],
@@ -86,44 +82,18 @@ export default function LeadershipPage() {
           useInvertedBackground={false}
           features={[
             {
-              id: "strategic-vision",
-              title: "Strategic Vision & Execution",
-              description: "Defining bold long-term strategies while maintaining operational excellence. Balanced visionary thinking with pragmatic execution to drive sustainable growth.",
-              tag: "Strategy",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/abstract-visualization-of-enterprise-tec-1773421318926-afa0ff1b.png?_wi=2",
-              imageAlt: "Abstract visualization of strategic enterprise vision",
-            },
+              id: "strategic-vision",              title: "Strategic Vision & Execution",              description: "Defining bold long-term strategies while maintaining operational excellence. Balanced visionary thinking with pragmatic execution to drive sustainable growth.",              tag: "Strategy",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/abstract-visualization-of-enterprise-tec-1773421318926-afa0ff1b.png?_wi=2",              imageAlt: "Abstract visualization of strategic enterprise vision"},
             {
-              id: "team-building",
-              title: "High-Performance Team Building",
-              description: "Attracting and developing exceptional talent. Creating psychologically safe environments where diverse perspectives drive innovation and exceptional results.",
-              tag: "Teams",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/vibrant-diverse-team-of-tech-professiona-1773421319421-abd8f91f.png?_wi=3",
-              imageAlt: "Diverse high-performing team collaborating",
-            },
+              id: "team-building",              title: "High-Performance Team Building",              description: "Attracting and developing exceptional talent. Creating psychologically safe environments where diverse perspectives drive innovation and exceptional results.",              tag: "Teams",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/vibrant-diverse-team-of-tech-professiona-1773421319421-abd8f91f.png?_wi=3",              imageAlt: "Diverse high-performing team collaborating"},
             {
-              id: "innovation-culture",
-              title: "Building Innovation Culture",
-              description: "Fostering environments where experimentation thrives and calculated risk-taking is celebrated. Balancing stability with the agility needed for breakthrough innovation.",
-              tag: "Culture",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-product-innovation-scene-showing-1773421322959-d8094f26.png?_wi=2",
-              imageAlt: "Innovation culture and creative collaboration",
-            },
+              id: "innovation-culture",              title: "Building Innovation Culture",              description: "Fostering environments where experimentation thrives and calculated risk-taking is celebrated. Balancing stability with the agility needed for breakthrough innovation.",              tag: "Culture",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-product-innovation-scene-showing-1773421322959-d8094f26.png?_wi=2",              imageAlt: "Innovation culture and creative collaboration"},
             {
-              id: "stakeholder-alignment",
-              title: "Stakeholder Alignment & Communication",
-              description: "Translating complex strategies into compelling narratives. Engaging board members, investors, employees, and customers with authentic, transparent communication.",
-              tag: "Communication",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/entrepreneurial-startup-ecosystem-visual-1773421323337-525d63f8.png?_wi=3",
-              imageAlt: "Stakeholder engagement and alignment",
-            },
+              id: "stakeholder-alignment",              title: "Stakeholder Alignment & Communication",              description: "Translating complex strategies into compelling narratives. Engaging board members, investors, employees, and customers with authentic, transparent communication.",              tag: "Communication",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/entrepreneurial-startup-ecosystem-visual-1773421323337-525d63f8.png?_wi=3",              imageAlt: "Stakeholder engagement and alignment"},
           ]}
           animationType="slide-up"
           buttons={[
             {
-              text: "Explore Speaking Topics",
-              href: "/speaking",
-            },
+              text: "Explore Speaking Topics",              href: "/speaking"},
           ]}
           buttonAnimation="slide-up"
           ariaLabel="Leadership philosophy and expertise areas"
@@ -138,30 +108,15 @@ export default function LeadershipPage() {
           tagAnimation="slide-up"
           metrics={[
             {
-              id: "org-scale",
-              value: "Fortune 500",
-              description: "Organizations led and transformed across enterprise",
-            },
+              id: "org-scale",              value: "Fortune 500",              description: "Organizations led and transformed across enterprise"},
             {
-              id: "team-scale",
-              value: "500+",
-              description: "Team members directly developed and mentored",
-            },
+              id: "team-scale",              value: "500+",              description: "Team members directly developed and mentored"},
             {
-              id: "innovation-pipeline",
-              value: "$2.5B+",
-              description: "Revenue from products and strategies implemented",
-            },
+              id: "innovation-pipeline",              value: "$2.5B+",              description: "Revenue from products and strategies implemented"},
             {
-              id: "diversity-impact",
-              value: "2x",
-              description: "Retention improvement through inclusive leadership",
-            },
+              id: "diversity-impact",              value: "2x",              description: "Retention improvement through inclusive leadership"},
             {
-              id: "founder-network",
-              value: "30+",
-              description: "Startups advised and invested in with founder support",
-            },
+              id: "founder-network",              value: "30+",              description: "Startups advised and invested in with founder support"},
           ]}
           metricsAnimation="slide-up"
           useInvertedBackground={false}
@@ -177,28 +132,17 @@ export default function LeadershipPage() {
           useInvertedBackground={false}
           inputs={[
             {
-              name: "name",
-              type: "text",
-              placeholder: "Your Name",
-              required: true,
+              name: "name",              type: "text",              placeholder: "Your Name",              required: true,
             },
             {
-              name: "email",
-              type: "email",
-              placeholder: "your@email.com",
-              required: true,
+              name: "email",              type: "email",              placeholder: "your@email.com",              required: true,
             },
             {
-              name: "company",
-              type: "text",
-              placeholder: "Your Company/Organization",
-              required: false,
+              name: "company",              type: "text",              placeholder: "Your Company/Organization",              required: false,
             },
           ]}
           textarea={{
-            name: "message",
-            placeholder: "Tell me about your leadership opportunity or challenge...",
-            rows: 5,
+            name: "message",            placeholder: "Tell me about your leadership opportunity or challenge...",            rows: 5,
             required: true,
           }}
           mediaAnimation="slide-up"
