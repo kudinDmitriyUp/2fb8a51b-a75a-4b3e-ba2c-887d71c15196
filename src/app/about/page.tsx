@@ -21,8 +21,7 @@ export default function AboutPage() {
 
   const footerColumns = [
     {
-      title: "Navigation",
-      items: [
+      title: "Navigation",      items: [
         { label: "Home", href: "/" },
         { label: "About", href: "/about" },
         { label: "Leadership", href: "/leadership" },
@@ -30,8 +29,7 @@ export default function AboutPage() {
       ],
     },
     {
-      title: "Connect",
-      items: [
+      title: "Connect",      items: [
         { label: "LinkedIn", href: "https://linkedin.com" },
         { label: "Twitter", href: "https://twitter.com" },
         { label: "Contact", href: "/contact" },
@@ -39,8 +37,7 @@ export default function AboutPage() {
       ],
     },
     {
-      title: "Resources",
-      items: [
+      title: "Resources",      items: [
         { label: "Blog", href: "#" },
         { label: "Speaking Topics", href: "/speaking" },
         { label: "Media Kit", href: "#" },
@@ -48,8 +45,7 @@ export default function AboutPage() {
       ],
     },
     {
-      title: "Legal",
-      items: [
+      title: "Legal",      items: [
         { label: "Privacy Policy", href: "#" },
         { label: "Terms of Service", href: "#" },
       ],
@@ -77,16 +73,12 @@ export default function AboutPage() {
         <InlineImageSplitTextAbout
           heading={[
             {
-              type: "text",
-              content: "My Journey: From Tech Pioneer to LGBTQ+ Inclusion Leader",
-            },
+              type: "text",              content: "My Journey: From Tech Pioneer to LGBTQ+ Inclusion Leader"},
           ]}
           useInvertedBackground={false}
           buttons={[
             {
-              text: "Back to Home",
-              href: "/",
-            },
+              text: "Back to Home",              href: "/"},
           ]}
           buttonAnimation="slide-up"
           ariaLabel="About Vitaliy - Full Journey"
@@ -104,41 +96,17 @@ export default function AboutPage() {
           useInvertedBackground={false}
           features={[
             {
-              id: "authentic-leadership",
-              title: "Authentic Leadership",
-              description:
-                "Leading with vulnerability and honesty. Believing that bringing your whole self—your identity, values, and experiences—makes you a stronger leader and creates psychological safety in teams.",
-              tag: "Authenticity",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/powerful-moment-of-authentic-leadership--1773421349421-02ed66a9.png?_wi=2",
-              imageAlt: "Authentic leadership connection",
-            },
+              id: "authentic-leadership",              title: "Authentic Leadership",              description:
+                "Leading with vulnerability and honesty. Believing that bringing your whole self—your identity, values, and experiences—makes you a stronger leader and creates psychological safety in teams.",              tag: "Authenticity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/powerful-moment-of-authentic-leadership--1773421349421-02ed66a9.png?_wi=2",              imageAlt: "Authentic leadership connection"},
             {
-              id: "inclusive-innovation",
-              title: "Inclusive Innovation",
-              description:
-                "Believing that diversity drives better innovation. Teams with varied backgrounds, perspectives, and lived experiences solve harder problems faster and build products that serve everyone.",
-              tag: "Diversity",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/vibrant-diverse-team-of-tech-professiona-1773421319421-abd8f91f.png?_wi=2",
-              imageAlt: "Diverse team innovation",
-            },
+              id: "inclusive-innovation",              title: "Inclusive Innovation",              description:
+                "Believing that diversity drives better innovation. Teams with varied backgrounds, perspectives, and lived experiences solve harder problems faster and build products that serve everyone.",              tag: "Diversity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/vibrant-diverse-team-of-tech-professiona-1773421319421-abd8f91f.png?_wi=2",              imageAlt: "Diverse team innovation"},
             {
-              id: "servant-leadership",
-              title: "Servant Leadership",
-              description:
-                "My role is to enable others to succeed. Removing obstacles, providing mentorship, and creating opportunities for those underrepresented in tech. True impact is measured by how many others you lift up.",
-              tag: "Service",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-collaboration-scene-showing-prof-1773421323236-38d18747.png?_wi=2",
-              imageAlt: "Collaborative leadership",
-            },
+              id: "servant-leadership",              title: "Servant Leadership",              description:
+                "My role is to enable others to succeed. Removing obstacles, providing mentorship, and creating opportunities for those underrepresented in tech. True impact is measured by how many others you lift up.",              tag: "Service",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/dynamic-collaboration-scene-showing-prof-1773421323236-38d18747.png?_wi=2",              imageAlt: "Collaborative leadership"},
             {
-              id: "bold-vision",
-              title: "Bold Vision for Change",
-              description:
-                "Technology should be a force for good. Leveraging resources, platform, and influence to accelerate systemic change in how tech companies treat LGBTQ+ people and other marginalized communities.",
-              tag: "Vision",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/entrepreneurial-startup-ecosystem-visual-1773421323337-525d63f8.png?_wi=2",
-              imageAlt: "Vision and transformation",
-            },
+              id: "bold-vision",              title: "Bold Vision for Change",              description:
+                "Technology should be a force for good. Leveraging resources, platform, and influence to accelerate systemic change in how tech companies treat LGBTQ+ people and other marginalized communities.",              tag: "Vision",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3A2kdHi1NSExmmN97qC0PBBxl6G/entrepreneurial-startup-ecosystem-visual-1773421323337-525d63f8.png?_wi=2",              imageAlt: "Vision and transformation"},
           ]}
           animationType="slide-up"
           ariaLabel="Core values and leadership philosophy"
@@ -152,28 +120,17 @@ export default function AboutPage() {
           useInvertedBackground={false}
           inputs={[
             {
-              name: "name",
-              type: "text",
-              placeholder: "Your Name",
-              required: true,
+              name: "name",              type: "text",              placeholder: "Your Name",              required: true,
             },
             {
-              name: "email",
-              type: "email",
-              placeholder: "your@email.com",
-              required: true,
+              name: "email",              type: "email",              placeholder: "your@email.com",              required: true,
             },
             {
-              name: "inquiry",
-              type: "text",
-              placeholder: "Nature of Inquiry (Mentorship, Partnership, etc.)",
-              required: false,
+              name: "inquiry",              type: "text",              placeholder: "Nature of Inquiry (Mentorship, Partnership, etc.)",              required: false,
             },
           ]}
           textarea={{
-            name: "message",
-            placeholder: "Tell me about your thoughts or opportunity...",
-            rows: 5,
+            name: "message",            placeholder: "Tell me about your thoughts or opportunity...",            rows: 5,
             required: true,
           }}
           mediaAnimation="slide-up"
